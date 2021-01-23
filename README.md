@@ -1,4 +1,4 @@
 # first-project
 
-   - [Preview](https://your-name.github.io/your-repo/)
+   - [Preview](https://TarasChaban.github.io/first-project/)
    - [Pull Request](https://github.com/TarasChaban/first-project/pull/1/files)
